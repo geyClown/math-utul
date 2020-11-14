@@ -26,6 +26,8 @@ public class MathUtul {
         System.out.println("6! : 720 actual: " + MathUtility.getFactorial(6));
         
         System.out.println("expected: illegalArgumentException: " + MathUtility.getFactorial(-5));
+        
+        System.out.println("chuc cuoi tuan vui ve");
     }
     
 }
