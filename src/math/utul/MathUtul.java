@@ -27,7 +27,8 @@ public class MathUtul {
         
         System.out.println("expected: illegalArgumentException: " + MathUtility.getFactorial(-5));
         
-        System.out.println("chuc cuoi tuan vui ve");
+        System.out.println("i want to see more green");
+        
     }
     
 }
